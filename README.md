@@ -18,3 +18,15 @@ I am a mobile developer , I am really passionate about mobile ,computer and desi
 **Awarded To:** Athit Wisatchanam  
 
 [Verify Badge](https://badgr.com/public/assertions/axzWdacRR8uCOLjNfu3ngw?identity__email=athitwis.dev@40gmail.com)
+
+
+
+<a href="https://api.badgr.io/public/assertions/axzWdacRR8uCOLjNfu3ngw?identity__email=athitwis.dev%40gmail.com">
+    <img src="https://media.badgr.com/uploads/badges/assertion-axzWdacRR8uCOLjNfu3ngw.png?versionId=FN01daV_X8mxdXlwISJHU1LD1g9H2eah" alt="One Person Business 101" width="100">
+</a>
+
+**One Person Business 101**  
+**Awarded:** Jan 7, 2025  
+**Awarded To:** Athit Wisatchanam  
+
+[Verify Badge](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FaxzWdacRR8uCOLjNfu3ngw%3Fidentity__email%3Dathitwis.dev%2540gmail.com&identity__email=athitwis.dev%40gmail.com)
