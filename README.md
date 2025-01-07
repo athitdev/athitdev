@@ -17,4 +17,4 @@ I am a mobile developer , I am really passionate about mobile ,computer and desi
 **Awarded:** Jan 7, 2025  
 **Awarded To:** Athit Wisatchanam  
 
-[Verify Badge](https://api.badgr.io/public/assertions/axzWdacRR8uCOLjNfu3ngw?identity__email=athitwis.dev%40gmail.com)
+[Verify Badge](https://api.badgr.io/public/assertions/axzWdacRR8uCOLjNfu3ngw?identity__email=athitwis.dev@gmail.com)
