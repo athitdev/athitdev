@@ -10,3 +10,4 @@ I am a mobile developer , I am really passionate about mobile ,computer and desi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://api.badgr.io/public/assertions/axzWdacRR8uCOLjNfu3ngw?identity__email=athitwis.dev%40gmail.com)
