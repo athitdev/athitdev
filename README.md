@@ -11,10 +11,4 @@ I am a mobile developer , I am really passionate about mobile ,computer and desi
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![One Person Business 101](https://api.badgr.io/public/assertions/axzWdacRR8uCOLjNfu3ngw/image)](https://api.badgr.io/public/assertions/axzWdacRR8uCOLjNfu3ngw?identity__email=athitwis.dev%40gmail.com)
-
-**One Person Business 101**  
-**Awarded:** Jan 7, 2025  
-**Awarded To:** Athit Wisatchanam  
-
-[Verify Badge](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FaxzWdacRR8uCOLjNfu3ngw%3Fidentity__email%3Dathitwis.dev%2540gmail.com&identity__email=athitwis.dev%40gmail.com)
+![A](https://api.badgr.io/public/assertions/axzWdacRR8uCOLjNfu3ngw/image)
